@@ -10,7 +10,7 @@ function App() {
     <div className="app">
         {/* bem naming convention */}
 
-        <h1>T E L I S </h1>
+        <h1>Slack</h1>
 
         <Header />  
 
